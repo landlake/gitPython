@@ -1,0 +1,5 @@
+00. python의 시작!!
+
+환경설정
+
+https://www.python.org/
